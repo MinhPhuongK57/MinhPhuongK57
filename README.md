@@ -17,13 +17,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;>
-
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=next.js&logoColor=00F200" alt="Next.js logo" title="Next.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/NextJS-282C34?logo=next&logoColor=764ABC" alt="Next.js logo" title="Next.js" height="25" /></span>
 &nbsp;
-
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
-
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
