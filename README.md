@@ -51,8 +51,8 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://minhphuongk57.github.io/KenCrystalK57/" target="blank">
-    <img width="150" height="90" src="images/minhphuongk57.png" alt="MinhPhuongK57-blog"/>
+  <a href="https://minhphuongk57.github.io/MinhPhuongK57-Portfolio/" target="blank">
+    <img width="150" height="90" src="images/minhphuongk57.png" alt="MinhPhuongK57"/>
   </a>
   <a href="https://facebook.com/MinhPhuongK57" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="minhphuongk57-facebook" />
